@@ -1,11 +1,11 @@
 ---
-status: "in-progress"
-current_state: "The landing page is public. Eight of its nine project links work while signed out; Support Evals remains private."
-next_action: "After owner approval, make Support Evals public, rerun every signed-out link check, and mark this landing page shipped."
+status: "shipped"
+current_state: "The public landing page and all nine project links work while signed out."
+next_action: "Start the separate Handoff Gate evolution plan when Adi chooses to resume portfolio work."
 things_to_know:
   - "Voice Support case-study item 6 remains deferred."
   - "All ten planned repository renames are complete, and Handoff Gate and Copilot Lab are public."
-  - "Support Evals needs an owner visibility decision before its public landing-page link can work."
+  - "Support Evals is public, and every landing-page link returned HTTP 200 without authentication."
 what_it_is: "The public landing page for Adi's evidence-first support portfolio."
 read_next:
   - "README.md"
