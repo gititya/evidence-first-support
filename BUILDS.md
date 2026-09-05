@@ -1,10 +1,11 @@
 ---
 status: "in-progress"
-current_state: "The public landing README is ready locally with the final repository names."
-next_action: "Publish after the planned GitHub renames and public-link checks are complete."
+current_state: "The landing page is public. Eight of its nine project links work while signed out; Support Evals remains private."
+next_action: "After owner approval, make Support Evals public, rerun every signed-out link check, and mark this landing page shipped."
 things_to_know:
   - "Voice Support case-study item 6 remains deferred."
-  - "Support Evals is still private and needs an owner visibility decision before the public landing page can link to it."
+  - "All ten planned repository renames are complete, and Handoff Gate and Copilot Lab are public."
+  - "Support Evals needs an owner visibility decision before its public landing-page link can work."
 what_it_is: "The public landing page for Adi's evidence-first support portfolio."
 read_next:
   - "README.md"
