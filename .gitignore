@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+*serviceaccount*
+*.pem
+*.p12
+.DS_Store
