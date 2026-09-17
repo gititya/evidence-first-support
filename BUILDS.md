@@ -1,7 +1,7 @@
 ---
-status: "shipped"
-current_state: "The public landing page and all nine project links work while signed out."
-next_action: "Start the separate Handoff Gate evolution plan when Adi chooses to resume portfolio work."
+status: "paused"
+current_state: "The portfolio overview matches the revised experiment scope and public README drafts. Publication remains unapproved."
+next_action: "Review the README wording before publication."
 things_to_know:
   - "Voice Support case-study item 6 remains deferred."
   - "All ten planned repository renames are complete, and Handoff Gate and Copilot Lab are public."
@@ -9,7 +9,7 @@ things_to_know:
 what_it_is: "The public landing page for Adi's evidence-first support portfolio."
 read_next:
   - "README.md"
-updated_at: "2026-09-05"
+updated_at: "2026-09-17"
 updated_by: "codex"
 ---
 
