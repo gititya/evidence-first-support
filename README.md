@@ -34,7 +34,7 @@ The skill of the human rep is in determining the outcome & judgement on when to 
 
 ## Support & operations
 
-**[Release Readiness](https://github.com/gititya/support-release-readiness)** reviews the support work around a product launch: training, help content, vendor preparation, notices, rollout signals and affected-customer follow-up. It connects a changed product flow to the preparation that needs revisiting, while keeping human launch authority separate. In one fictional B2C release, it found the same expected risks as a generic AI checklist and handled phase and change scope better; that is a prototype result, not proof of broad superiority.
+**[Release Readiness](https://github.com/gititya/support-release-readiness)** helps a support lead prepare for a product launch: training, help content, staffing and communications. When the product changes, it identifies which preparation needs another look. The support lead makes the launch recommendation.
 
 **[Capacity Planning](https://github.com/gititya/support-capacity-planning)** asks what work remains after automation. The [article](https://substack.com/home/post/p-217364865) walks through the [calculator](https://gititya.github.io/support-capacity-planning/): fewer contacts, less human work and lower cost are three different results.
 
